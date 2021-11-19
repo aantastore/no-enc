@@ -154,7 +154,7 @@ let date = d.toLocaleDateString(locale, { day: 'numeric', month: 'long', year: '
 
 		mess = {
 			wait: 'Sabar Lagi Proses Tod...!',
-			success: 'Done Jangan Lupa Subrek YT : KirBotz×',
+			success: 'Done Jangan Lupa Follow Ig : suranta_smbr_',
 			error: {
 				stick: 'Gagal Convert Gambar To Sticker...Coba Lagi !',
 				Iv: 'Linknya Error Tod !'
